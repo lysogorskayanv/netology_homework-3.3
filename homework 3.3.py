@@ -5,7 +5,7 @@
 #params = {
         #"client_id": APP_ID,
         #"display": "page",
-        #"redirect_uri": "https://oauth.vk.com/blank.html",
+        #"redirect_url": "https://oauth.vk.com/blank.html",
         #"scope": "friends",
         #"respons_type": "token",
         #"v": VERSION
